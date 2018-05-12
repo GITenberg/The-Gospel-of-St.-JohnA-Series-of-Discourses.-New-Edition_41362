@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41140'
     url: http://www.gutenberg.org/2009/agents/41140
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41362#The-Gospel-of-St.-JohnA-Series-of-Discourses.-New-Edition
 gutenberg_issued: '2012-11-14'
 gutenberg_type: Text
 identifiers:
