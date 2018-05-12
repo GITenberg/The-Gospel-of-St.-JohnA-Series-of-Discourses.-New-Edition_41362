@@ -1,0 +1,30 @@
+_repo: The-Gospel-of-St.-JohnA-Series-of-Discourses.-New-Edition_41362
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maurice, Frederick Denison
+    aliases:
+    - Maurice, F. D. (Frederick Denison)
+    - Maurice, John Frederick Denison
+    birthdate: 1805
+    deathdate: 1872
+    gutenberg_agent_id: '41140'
+    url: http://www.gutenberg.org/2009/agents/41140
+description: ''
+gutenberg_issued: '2012-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. John -- Commentaries'
+- !lcsh 'Sermons, English'
+- !lcc 'BS'
+title: "The Gospel of St. John: A Series of Discourses.\r\nNew Edition"
+url: http://www.gutenberg.org/ebooks/41362
